@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet"> 
+</head>
+<body>
+<div id="hai">
+<h1>HEADING</h1>
+<p>buhahahahahaah ahahahah ahhahahahaha!!</p>
+</div>
+</body>
+</html>
